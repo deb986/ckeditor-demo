@@ -1,4 +1,4 @@
-CKEditor 4
+CKEditor 4  (Download plugin folder and  add here)
 ==========
 
 Copyright (c) 2003-2019, CKSource - Frederico Knabben. All rights reserved.
